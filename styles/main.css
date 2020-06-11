@@ -1,0 +1,12 @@
+:root{
+    --primary-color:rgba(180, 110, 246, 0.61);
+    --font-color: #3e1658;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
